@@ -2,7 +2,7 @@
 
 This is a simple React application demonstrating code organization, architectural approaches, and best practices.
 
-[DEMO-LINK](https://volodymyr-soltys97.github.io/graintrack/)
+[DEMO-LINK](https://volodymyr-soltys97.github.io/Graintrack/)
 
 ## Features
 
