@@ -1,0 +1,1 @@
+import{a as t,j as e}from"./index-C6VIqVnc.js";const n=t("/")({component:o});function o(){return e.jsx("div",{className:"p-2 min-h-screen bg-gradient-to-r from-orange-500 to-yellow-500 text-center",children:e.jsx("h3",{className:"text-white-700",children:"Hello World!"})})}export{n as Route};
