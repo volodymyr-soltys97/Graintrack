@@ -2,6 +2,8 @@
 
 This is a simple React application demonstrating code organization, architectural approaches, and best practices.
 
+[DEMO-LINK](https://volodymyr-soltys97.github.io/graintrack/)
+
 ## Features
 
 - Authentication (login form, mock API service, session state)
