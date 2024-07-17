@@ -1,0 +1,1 @@
+import{j as e,d as t}from"./index-Drcf1Kml.js";const r=()=>e.jsx("div",{className:"p-2 min-h-screen bg-gradient-to-r from-orange-500 to-yellow-500 text-center",children:e.jsx("h3",{className:"text-white-700",children:"Hello World!"})}),o=()=>e.jsx(e.Fragment,{children:e.jsx(r,{})}),s=t("/")({component:o});export{s as Route};
