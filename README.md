@@ -4,6 +4,10 @@ This is a simple React application demonstrating code organization, architectura
 
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/cebd7aa0-22e3-4a7d-be4f-e424041ee8e5">
 
+## Credentials for tests
+Login - `admin`
+Password - `admin`
+
 ## Features
 
 - Authentication (login form, mock API service, session state)

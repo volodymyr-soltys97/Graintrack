@@ -1,7 +1,7 @@
 import 'reflect-metadata';
-import { injectable } from 'tsyringe';
 import { firstValueFrom, of } from 'rxjs';
 import { delay } from 'rxjs/operators';
+import { injectable } from "inversify";
 
 @injectable()
 export class AuthService {

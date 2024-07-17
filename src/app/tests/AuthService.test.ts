@@ -1,4 +1,4 @@
-import { AuthService } from './AuthService';
+import { AuthService } from '../../core/AuthService';
 import { describe, it, expect } from 'vitest';
 
 describe('AuthService', () => {

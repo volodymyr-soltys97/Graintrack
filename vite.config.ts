@@ -8,5 +8,4 @@ export default defineConfig({
     TanStackRouterVite(),
     viteReact(),
   ],
-  base: '/Graintrack/',
 })
